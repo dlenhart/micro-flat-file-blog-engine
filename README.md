@@ -7,7 +7,7 @@ learn, honest! It was a good way to get back into PHP and see how the pieces
 of a framework actually fit together. This has its own little router,
 controllers, views, config, and the flat-file blog bits. All are written by hand
 and kept as small as I could make them. This was my last personal tinker project before 
-shifting to AI agentic tools...
+shifting to AI agentic tools...This is another take on [this project](https://github.com/dlenhart/php-micro-blog-framework).
 
 ## What it can do
 
