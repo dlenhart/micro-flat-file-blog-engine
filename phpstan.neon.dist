@@ -1,0 +1,9 @@
+parameters:
+    level: 3
+    paths:
+        - src
+        - bootstrap
+        - routes
+    # src/helpers.php holds the procedural global helpers — view(), config(),
+    # flatten(), etc. It is loaded via Composer "files" autoloading at runtime
+    # and analysed here because `src` is in `paths`.

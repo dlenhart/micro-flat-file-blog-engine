@@ -1,0 +1,12 @@
+.git
+.gitignore
+vendor
+tests
+.phpunit.cache
+phpunit.xml.dist
+phpstan.neon.dist
+.php-cs-fixer.cache
+logs/*.log
+Dockerfile
+.dockerignore
+README.md

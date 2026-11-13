@@ -1,0 +1,10 @@
+{
+    "title": "Sample Post",
+    "author": "Test Author",
+    "date": "2020-01-02",
+    "slug": "sample"
+}
+#content#
+First body line.
+A literal #content# marker inside the body.
+Last body line.

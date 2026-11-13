@@ -1,0 +1,6 @@
+/vendor
+.DS_Store
+/logs/*.log
+/logs/*.txt
+/.phpunit.cache
+/.php-cs-fixer.cache
